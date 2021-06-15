@@ -36,10 +36,6 @@
 			margin-bottom: 0;
 			max-width: none;
 		}
-
-		.hero__cta {
-			display: none;
-		}
 	}
 }
 
@@ -54,6 +50,11 @@
 	display: none;
 
 	@include mq(tabletl) {
+		display: block;
+		margin-top: 150px;
+	}
+	
+	@include mq(tabletp) {
 		display: block;
 		margin-top: 150px;
 	}
