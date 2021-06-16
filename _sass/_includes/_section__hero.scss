@@ -46,8 +46,9 @@
 	left: 50%;
 	transform: translateX(-50%);
 	z-index: -1;
-	max-width: 100%;
+	max-width: 150%;
 	display: none;
+	overflow: hidden;
 
 	@include mq(tabletl) {
 		display: block;
