@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Projects'
       url: '/'
     - title: 'Speaking'
-	  url: '/speaking.html'
+      url: '/speaking.html'
 
 footer_settings:
   logo_image: 
