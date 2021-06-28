@@ -9,6 +9,7 @@
 	position: relative;
 	padding: 40px 0 160px;
 	margin-bottom: -30px;
+	border-bottom: 2px solid #A94007;
 
 	.title {
 		margin-bottom: 24px;
@@ -37,23 +38,4 @@
 			max-width: none;
 		}
 	}
-}
-
-.hero__background {
-	display: block;
-	position: absolute;
-	top: 0px;
-	left: 50%;
-	transform: translateX(-50%);
-	z-index: -1;
-	max-width: 190%;
-	height: 600px;
-	display: none;
-	overflow: hidden;
-
-	@include mq(tabletl) {
-		display: block;
-		margin-top: 150px;
-	}
-
 }
