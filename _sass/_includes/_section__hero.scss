@@ -9,7 +9,8 @@
 	position: relative;
 	padding: 40px 0 160px;
 	margin-bottom: -30px;
-	border-bottom: 2px solid var(--accent);
+	height: 100vh;
+    overflow: auto;
 
 	.title {
 		margin-bottom: 24px;
