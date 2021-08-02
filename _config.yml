@@ -3,26 +3,23 @@ title: Wes Kennedy
 url: https://wes.today
 baseurl:
 
-markdown: kramdown
-highlighter: rouge
+email: hello@wes.today
+description: wes's thoughts
+github_username:  wesdottoday
 
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-  
-sass:
-  sass_dir: _sass
+markdown: kramdown
 
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-seo-tag
 
-paginate: 7
-paginate_path: "/:title"
-
+remote_theme: riggraz/no-style-please
 theme: no-style-please
+
+permalink: /:title/
+
+theme_config:
+  appearance: 'auto'
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home pag
