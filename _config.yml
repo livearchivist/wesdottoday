@@ -1,4 +1,4 @@
-site: Wes kennedy
+title: Wes Kennedy
 
 url: https://wes.today
 baseurl:
@@ -16,7 +16,7 @@ kramdown:
       start_line: 1
   
 sass:
-  style: compressed
+  sass_dir: _sass
 
 plugins:
   - jekyll-sitemap
@@ -24,3 +24,5 @@ plugins:
 
 paginate: 7
 paginate_path: "/:title"
+
+theme: no-style-please
