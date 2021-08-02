@@ -1,61 +1,25 @@
-site: Wes kennedy
+title: Wes Kennedy
 
 url: https://wes.today
-baseurl: 
+baseurl:
 
-collections:
-  pages:
-    output: true
-    permalink: /:name.html
-  posts:
-    output: true
-    permalink: /blog/:slug.html
-  projects:
-    output: true
-    permalink: /project/:slug.html
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
+email: hello@wes.today
+description: wes's thoughts
+github_username:  wesdottoday
 
 markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-  
-sass:
-  style: compressed
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
-paginate: 7
-paginate_path: "/blog/page-:num/"
+remote_theme: riggraz/no-style-please
+theme: no-style-please
+
+permalink: /:title/
+
+theme_config:
+  appearance: 'auto'
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home pag
