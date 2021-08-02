@@ -1,0 +1,11 @@
+--- 
+layout: default 
+---
+<header>
+    <b>{{ site.title }}</b> {%-if site.pronouns-%} <i> - {{ site.pronouns }}</i>{%-endif-%} 
+    {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+    {%-endif-%}
+</header>
+
+{%-include menu_item.html collection=site.data.menu.entries-%} {{ content }}
