@@ -12,6 +12,7 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 remote_theme: riggraz/no-style-please
 theme: no-style-please

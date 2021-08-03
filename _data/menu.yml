@@ -9,6 +9,8 @@ entries:
         url: /speaking
       - title: contact me
         url: https://poly.work/wesdottoday/contact
+      - title: resume
+        url: /resume
 
   - title: thoughts
     post_list: true
