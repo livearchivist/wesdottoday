@@ -7,6 +7,8 @@ entries:
         url: https://twitter.com/wesdottoday
       - title: speaking
         url: /speaking
+      - title: contact me
+        url: https://poly.work/wesdottoday/contact
 
   - title: thoughts
     post_list: true
