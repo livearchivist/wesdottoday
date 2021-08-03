@@ -33,12 +33,12 @@ html {
 }
 
 a {
-    color: #a9bcd0;
+    color: #e0afa0;
     text-decoration: none;
 }
 
 a:visited {
-    color: #e0afa0;
+    color: #aa7e71;
 }
 
 .backlinks {
@@ -128,7 +128,8 @@ div.highlighter-rouge code {
 
 blockquote {
     font-style: italic;
-    border: thin solid #595959;
+    background: #a9bcd0;
+    color: #212738;
     padding: 1rem;
     p {
         margin: 0;
