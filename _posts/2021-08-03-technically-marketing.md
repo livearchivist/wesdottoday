@@ -2,7 +2,7 @@
 layout: post
 category: tech-marketing
 title: "Technically Marketing"
-published: false
+published: true
 ---
 
 I've been working in Technical Marketing for a little while now, long enough to realize how much this job rocks. Before getting into Tech Marketing I was a Sales Engineer and was finding myself worn down and unsure of what I could do next. That's when my buddy Adam mentioned that I would be a great fit for our TME team at Nutanix. So I reached out to the director and we started talking.
