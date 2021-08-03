@@ -25,15 +25,23 @@ body[a="dark"] {
 // see: https://stackoverflow.com/a/61265706
 html,
 body {
-    background: white;
+    background: #f1f5f2;
 }
 
 html {
     height: 100%;
 }
 
+a {
+    color: #a9bcd0;
+}
+
+a:visited {
+    color: #e0afa0;
+}
+
 body {
-    color: black;
+    color: #212738;
     font-family: monospace;
     font-size: 16px;
     line-height: 1.4;
@@ -67,7 +75,7 @@ li {
 }
 
 *:target {
-    background: yellow;
+    background: #e0afa0;
 }
 
 .wrapper {
@@ -94,14 +102,14 @@ table {
 table,
 th,
 td {
-    border: thin solid black;
+    border: thin solid #595959;
     border-collapse: collapse;
     padding: 0.4rem;
 }
 
 code {
-    color: white;
-    background: black;
+    color: #a9bcd0;
+    background: #595959;
 }
 
 div.highlighter-rouge code {
@@ -113,7 +121,7 @@ div.highlighter-rouge code {
 
 blockquote {
     font-style: italic;
-    border: thin solid black;
+    border: thin solid #595959;
     padding: 1rem;
     p {
         margin: 0;
