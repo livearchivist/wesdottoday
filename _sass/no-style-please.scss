@@ -34,10 +34,16 @@ html {
 
 a {
     color: #a9bcd0;
+    text-decoration: none;
 }
 
 a:visited {
     color: #e0afa0;
+}
+
+.backlinks {
+    font-weight: 900;
+    font-size: 24px;
 }
 
 body {
@@ -110,6 +116,7 @@ td {
 code {
     color: #a9bcd0;
     background: #595959;
+    letter-spacing: 1.5px;
 }
 
 div.highlighter-rouge code {
