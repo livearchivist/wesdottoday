@@ -12,5 +12,5 @@ entries:
       - title: resume
         url: /resume
 
-  - title: thoughts
+  - title: writings
     post_list: true
