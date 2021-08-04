@@ -20,4 +20,4 @@ Compensation disparity between sexes and races have been caused by the idea that
 - **Lead Architect** - $55k (massively underpaid)
 - **Virtualization Engineer** - $45k starting, raised to $50k
 - **Senior Desktop Analyst** - $42k
-- **Desktop Analyst - $15/hr** 
+- **Desktop Analyst** - $15/hr
