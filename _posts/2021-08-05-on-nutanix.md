@@ -44,4 +44,6 @@ I worked closely with so many on my team, namely [@laurajordana22](https://twitt
 
 I also want to thank [@dheeraj](https://twitter.com/dheeraj) for working so hard to build an amazing company with such great culture, not to mention remembering who I was from our Twitter interactions when he saw me in the New Hire class. _That meant something._ [@sudheenair](https://twitter.com/sudheenair), I will always remember sales training with you and watching you interact with Mike Umphreys, I still laugh thinking about how that conversation went on. That, and our shared love of Lulu Lemon slacks!
 
-There truly are far too many amazing people that I got to work with on a daily basis to mention them all here. Each and every person at Nutanix made an impression on me and I will miss you all. Who would have thought that 
+There truly are far too many amazing people that I got to work with on a daily basis to mention them all here. Each and every person at Nutanix made an impression on me and I will miss you all. Who would have thought that one Tweet can influence almost ten years!
+
+I love you all!
