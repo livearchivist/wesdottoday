@@ -30,7 +30,7 @@ Our territory slowly began to shrink as the SLED team grew. Along the way I star
 
 I worked in the same role for 5 years at Nutanix, servicing SLED customers of all sizes. I had 6 different managers during those five years, mostly because of the crazy growth we were going through. I worked for Mark Benson twice, in the same capacity! Big shout out to Mark Beaudreault for believing in me and really pushing me for promotions! Eventually I ended up being partnered with [@tlambke](https://twitter.com/tlambke) and we had a blast together traveling around and getting to know our customers. 
 
-Something I'll never forget is Business Critical Apps training in Amsterdam. I spent a week getting my mind melted by Michael Webster, Josh Odgers, Bruno Sousa, Derek Seaman, Kasim Hansia, and a few others. By far, one of the most important trainings, **and hardest**, I've ever taken.
+Something I'll never forget is Business Critical Apps training in Amsterdam. I spent a week getting my mind melted by Michael Webster, Josh Odgers, Bruno Sousa, Derek Seaman, Kasim Hansia, Magnus Andersson, and a few others. By far, one of the most important trainings, **and hardest**, I've ever taken.
 
 Eventually I tired of the SE life and was told by [@ampnh603](https://twitter.com/ampnh603) that the TME team might be a good place for me. So I reached out to [@strangetangent](https://twitter.com/strangetangent) to see what the role would look like. He walked me through everything and it excited me to know what all the TME team was doing and was looking to do in the future. 
 
