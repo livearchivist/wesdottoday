@@ -9,6 +9,8 @@ published: true
 
 It all started with that Tweet. I was wanting to move back to Columbus and after a few phone conversations and an in person interview, I was all but rejected by Josh. Thankfully [@ginger_spray](https://twitter.com/ginger_spray) brought Josh to his senses, (he was an hour late to our interview afterall), and they hired me. PS - I still love you Josh!
 
+### As a Customer
+
 In October of 2012 I started a job for Carenection, who had just become one of the earliest Nutanix customers. Originally the job was supposed to be a Desktop Engineer, but very quickly became Virtualization Engineer. During the initial datacenter tour, I remember [@joshobrien77](https://twitter.com/joshobrien77) saying, _"And this is our Nutanix box."_, meanwhile I was thinking, what's a Nutanix?
 
 After a few months of working there, I quickly realized how transformative HCI could be. It made my job as a virtualization admin easy and was quite cost effective for our business. Over the couple years I worked there I made several calls in to support, almost always getting [@laurajordana22](https://twitter.com/laurajordana22) on the other end. She was always helpful and got the job done efficiently. Eventually though, Nutanix grew, the support team grew, and I started to have to talk to other folks as well.
@@ -17,6 +19,7 @@ A couple years into working at Carenection I was fried. Late nights, on call, sh
 
 > A quick note here for a few folks that felt burned at the time, I sought Nutanix out, not the other way around. ;)
 
+### As a SE
 I can't stress this enough, **I didn't know what SLED was**. Oops. But I got in the door and started to figure out the ropes. Big thanks to Jay Gregg who took a chance on hiring me and mentoring me through the first 6-9 months. It was a rough transition from Customer to SE. 
 
 I covered 10 1/2 states with [@sawelch1999](https://twitter.com/sawelch1999) and became Executive Platinum on AA in a matter of 6 months. I'm not sure we got a lot of selling done, but we certainly evangelized like crazy. Everyone we talked to had never heard of HCI, let alone Nut-A-Nix - surely we were a breakfast cereal.
@@ -30,6 +33,8 @@ I worked in the same role for 5 years at Nutanix, servicing SLED customers of al
 Something I'll never forget is Business Critical Apps training in Amsterdam. I spent a week getting my mind melted by Michael Webster, Josh Odgers, Bruno Sousa, Derek Seaman, Kasim Hansia, and a few others. By far, one of the most important trainings, **and hardest**, I've ever taken.
 
 Eventually I tired of the SE life and was told by [@ampnh603](https://twitter.com/ampnh603) that the TME team might be a good place for me. So I reached out to [@strangetangent](https://twitter.com/strangetangent) to see what the role would look like. He walked me through everything and it excited me to know what all the TME team was doing and was looking to do in the future. 
+
+### TME Life
 
 In December 2019 I joined the TME team covering Nutanix Objects, working for [@mcghem](https://twitter.com/mcghem). It was a crazy learning curve to figure out what parts of PSM was responsible for what, who I needed to work with to get things done, and to do so in a 100% self-driven way. Our TMEs are directly in charge of their products and the workload to support them, a big change from the weekly root canal in SFDC that you get in sales!
 
