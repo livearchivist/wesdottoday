@@ -124,8 +124,12 @@ img {
 
 // Dark Mode
 @media (prefers-color-scheme: dark) {
-    body {
+	body {
 		background: #212738;
 		color: #f1f5f2;
-    }
+	}
+	blockquote {
+		background: #595959;
+		color: #f1f5f2;
+	}
 }
