@@ -1,21 +1,7 @@
-// -------------- THEME SWITCHER -------------- //
-@mixin dark-appearance {
-    filter: invert(1);
-    img {
-        filter: invert(1);
-        &.ioda {
-            filter: invert(0);
-        }
-    }
-}
-
-body[a="dark"] {
-    @include dark-appearance;
-}
-
 @media (prefers-color-scheme: dark) {
-    body[a="auto"] {
-        @include dark-appearance;
+    body {
+		background: #212738;
+		color: #f1f5f2;
     }
 }
 
