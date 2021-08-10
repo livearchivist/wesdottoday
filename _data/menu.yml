@@ -14,6 +14,10 @@ entries:
 
   - title: writings
     post_list: true
+    limit: 5
+    show_more: true
+    show_more_url: /posts
+    show_more_text: more posts...
 
   - title: projects
     entries:
