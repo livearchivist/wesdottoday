@@ -18,5 +18,6 @@ entries:
   - title: projects
     entries:
       - title: tapes
+        url: /tapes
       - title: pyDeskController
       - title: kilo green
