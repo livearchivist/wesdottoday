@@ -9,7 +9,8 @@ published: true
 
 It all started with that Tweet. I was wanting to move back to Columbus and after a few phone conversations and an in person interview, I was all but rejected by Josh. Thankfully [@ginger_spray](https://twitter.com/ginger_spray) brought Josh to his senses, (he was an hour late to our interview afterall), and they hired me. PS - I still love you Josh!
 
-### As a Customer
+---
+{: data-content="As a Customer"}
 
 In October of 2012 I started a job for Carenection, who had just become one of the earliest Nutanix customers. Originally the job was supposed to be a Desktop Engineer, but very quickly became Virtualization Engineer. During the initial datacenter tour, I remember [@joshobrien77](https://twitter.com/joshobrien77) saying, _"And this is our Nutanix box."_, meanwhile I was thinking, what's a Nutanix?
 
@@ -19,14 +20,16 @@ A couple years into working at Carenection I was fried. Late nights, on call, sh
 
 > A quick note here for a few folks that felt burned at the time, I sought Nutanix out, not the other way around. ;)
 
-### As a SE
+---
+{: data-content="As a SE"}
+
 I can't stress this enough, **I didn't know what SLED was**. Oops. But I got in the door and started to figure out the ropes. Big thanks to Jay Gregg who took a chance on hiring me and mentoring me through the first 6-9 months. It was a rough transition from Customer to SE. 
 
 I covered 10 1/2 states with [@sawelch1999](https://twitter.com/sawelch1999) and became Executive Platinum on AA in a matter of 6 months. I'm not sure we got a lot of selling done, but we certainly evangelized like crazy. Everyone we talked to had never heard of HCI, let alone Nut-A-Nix - surely we were a breakfast cereal.
 
 ![Scott Thompson, Mike Umphreys, and Wes Kennedy](/assets/images/nutanix-0.jpg)
 
-Our territory slowly began to shrink as the SLED team grew. Along the way I started to get to know amazing folks like [@Jadair_Nutanix](https://twitter.com/jadair_nutanix), [@convergednutant](https://twitter.com/convergednutant), [@wolfbrthr](https://twitter.com/wolfbrthr), and so many more. The SLED SE team was close and we built a really great Slack culture, since we were a geo-distributed team. 
+Our territory slowly began to shrink as the SLED team grew. Along the way I started to get to know amazing folks like [@Jadair_Nutanix](https://twitter.com/jadair_nutanix), [@convergednutant](https://twitter.com/convergednutant), [@wolfbrthr](https://twitter.com/wolfbrthr), [@vPeteWalker](https://twitter.com/vPeteWalker), and so many more. Pete Walker has always been there for me. Always there to lend an ear when I have a problem or want to shoot the shit, and there to root for me and give me the confidence I need to move forward! <3 you Pete! The SLED SE team was close and we built a really great Slack culture, since we were a geo-distributed team. 
 
 I worked in the same role for 5 years at Nutanix, servicing SLED customers of all sizes. I had 6 different managers during those five years, mostly because of the crazy growth we were going through. I worked for Mark Benson twice, in the same capacity! Big shout out to Mark Beaudreault for believing in me and really pushing me for promotions! Eventually I ended up being partnered with [@tlambke](https://twitter.com/tlambke) and we had a blast together traveling around and getting to know our customers. 
 
@@ -34,7 +37,8 @@ Something I'll never forget is Business Critical Apps training in Amsterdam. I s
 
 Eventually I tired of the SE life and was told by [@ampnh603](https://twitter.com/ampnh603) that the TME team might be a good place for me. So I reached out to [@strangetangent](https://twitter.com/strangetangent) to see what the role would look like. He walked me through everything and it excited me to know what all the TME team was doing and was looking to do in the future. 
 
-### TME Life
+---
+{: data-content="As a TME"}
 
 In December 2019 I joined the TME team covering Nutanix Objects, working for [@mcghem](https://twitter.com/mcghem). It was a crazy learning curve to figure out what parts of PSM was responsible for what, who I needed to work with to get things done, and to do so in a 100% self-driven way. Our TMEs are directly in charge of their products and the workload to support them, a big change from the weekly root canal in SFDC that you get in sales!
 
