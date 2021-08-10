@@ -14,3 +14,9 @@ entries:
 
   - title: writings
     post_list: true
+
+  - title: projects
+    entries:
+      - title: tapes
+      - title: pyDeskController
+      - title: kilo green
