@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Open Compensation
+sitemap: false
 ---
 
 I firmly believe in the sharing of compensation with peers. 
