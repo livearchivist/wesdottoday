@@ -38,3 +38,5 @@ I surveyed Fastmail and Protonmail $5/mo plans for my personal use, here is how 
 For me, the biggest thing was the amount of storage and the multiple custom domain support. Having multiple domains that I use for various projects is useful and Fastmail doesn't charge me extra for something so simple. I like the Encryption and Hosting that Protonmail has, but it wasn't enough to push me over the edge for my consulting and project mail. I'll still continue to use Protonmail for my personal communication, but for projects, I've already moved everything over to Fastmail.
 
 Oh, and Google, if you ever read this... Your support sucks.
+
+Use my [Fastmail referral link](/refs/fastmail) to get 10% today!
