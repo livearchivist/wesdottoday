@@ -23,4 +23,8 @@ theme_config:
   appearance: 'auto'
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home pag
+  show_description: true # show blog description in home page
+
+collections:
+  refs:
+    output: true
