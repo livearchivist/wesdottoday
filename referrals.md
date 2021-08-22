@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Referrals
+title: Referrals
 ---
 
 {% for ref in site.refs %}
