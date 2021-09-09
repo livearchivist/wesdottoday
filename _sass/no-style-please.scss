@@ -95,7 +95,6 @@ td {
 
 code {
     color: #a9bcd0;
-    background: #595959;
     letter-spacing: 1.5px;
 }
 
@@ -106,14 +105,16 @@ div.highlighter-rouge {
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
+    background: #595959;
 }
 
 div.highlighter-rouge code {
     display: block;
     overflow-x: auto;
-    max-width: 640px;
+    max-width: 840px;
     white-space: pre-wrap;
-    padding: 1rem;
+    padding: 2rem;
+    margin: auto;
 }
 
 blockquote {
