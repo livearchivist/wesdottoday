@@ -99,9 +99,19 @@ code {
     letter-spacing: 1.5px;
 }
 
+div.highlighter-rouge {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
 div.highlighter-rouge code {
     display: block;
     overflow-x: auto;
+    max-width: 640px;
     white-space: pre-wrap;
     padding: 1rem;
 }
