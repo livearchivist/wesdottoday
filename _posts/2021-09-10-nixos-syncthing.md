@@ -101,7 +101,7 @@ devices = {
 
 Declaring the devices is a little complicated as there seems to be no automated way to grab the device ID's. I usually hop into the web interface of each device and go to `Settings -> Show ID`, then copy and paste it into my config. 
 
-_**Note: ** if you don't persist the `configDir`, the device ID will change after each `nixos-rebuild switch`._
+_**Note:** if you don't persist the `configDir`, the device ID will change after each `nixos-rebuild switch`._
 
 ``` nix
 folders = {
