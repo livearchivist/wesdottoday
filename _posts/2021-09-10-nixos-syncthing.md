@@ -115,7 +115,7 @@ folders = {
 
 Now we'll get around to declaring the folders to synchronize. 
 
-All you need to do is set the `path` and `devices` in which to share the folder. The versioning stanza is optional and we'll talk about that next.
+All you need to do is set the `path` and `devices` in which to share the folder. It's important that all machines that are going to be synchronizing a folder have the folder declared, otherwise no synchronization will occur. (i.e. Laptop and Desktop both have the `code` stanza, but the `devices` reflect the opposite device). The versioning stanza is optional and we'll talk about that next.
 
 ### Staggered Versioning
 
