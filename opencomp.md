@@ -8,7 +8,7 @@ I firmly believe in the sharing of compensation with peers.
 
 Compensation disparity between sexes and races have been caused by the idea that talking about salary and overall compensation is taboo. Below you'll see the titles I've held and the rough timelines through my compensation changes.
 
-> **CTA:** If you find this page useful and believe in Open Compensation like I do, please create a `/opencomp` section on your personal website as well!
+> **CTA:** If you find this page useful and believe in Open Compensation like I do, please create an /opencomp section on your personal website as well!
 
 ## Current: 
 
