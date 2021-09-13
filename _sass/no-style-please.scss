@@ -116,10 +116,19 @@ div.highlighter-rouge code {
 blockquote {
     font-style: italic;
     background: #a9bcd0;
+    position: relative;
+    width: 100vw;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
     color: #212738;
     padding: 1rem;
     p {
-        margin: 0;
+        max-width: 840px;
+        display: block;
+        overflow-x: auto;
+        margin: auto;
     }
 }
 
