@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Positivity"
-categories: Positivity
+category: Personal
 ---
 
 My neighbor has spent the last six months gardening. He has flourished during COVID and has loved every minute of focusing on something that matters to him, making a beautiful garden. He declared in June that “This will be the summer of positivity” and for the most part, he has been very positive. I realized recently that I need that in my life.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yubikey for Ubuntu Login"
-categories: 2FA
+category: 2FA
 published: true
 ---
 

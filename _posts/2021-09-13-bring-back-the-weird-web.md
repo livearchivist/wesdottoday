@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Miss the Weird Internet"
-categories: Internet
+category: Internet
 ---
 
 When I started working in IT in 2010 or so, I created this awesome list of blogs that were written by individuals who had something smart, funny, or weird to say. I learned a lot from those blogs, I read them religiously thanks to Google Feeds, RIP. Now, I get lucky to run across something cool by scrolling [Hacker News](news.ycombinator.com) or tripping over it through a DuckDuckGo search. I don't have a RSS feeds list anymore and I'm not sure why. 

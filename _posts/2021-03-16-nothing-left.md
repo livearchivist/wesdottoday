@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nothing Left"
-categories: Personal
+category: Personal
 published: true
 ---
 

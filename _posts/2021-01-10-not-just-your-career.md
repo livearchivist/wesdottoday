@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "You're Not Just Your Career"
-categories: life
+category: life
 ---
 
 I hate the question, "What do you do?" even though I'm sure I've asked the same question hundreds of times in my life. In the United States, we've aligned our identities with our occupations. If I meet a random person outside of work, should I care more about their personality and who they are or what they do for a living? Maybe we should be asking, "What are you passionate about?"

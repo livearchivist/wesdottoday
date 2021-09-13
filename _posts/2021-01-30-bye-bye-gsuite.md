@@ -2,7 +2,7 @@
 layout: post
 title: "Bye Bye GSuite"
 date:   2021-01-30
-categories: Tech
+category: Tech
 ---
 
 Anyone who follows me on Twitter probably saw my semi-public spat with Google this week. Normally I don't bother with getting support from large companies like them, because it in general sucks, instead I either return the product to the retailer or deal with the issue. In this case, I was living with the fact that my Nest Thermostat has never reported the internal humidity of our house as anything other than 38%. This includes when we were adding on to our kitchen (where the thermostat is located) and had an entire wall open to the outside for two days. One of the days, it downpoured. 

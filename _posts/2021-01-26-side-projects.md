@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Side Projects"
-categories: Projects
+category: Projects
 published: true
 ---
 

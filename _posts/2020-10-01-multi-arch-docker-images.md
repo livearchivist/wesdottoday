@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building Multi-Arch Docker Images on Gitlab.com"
-categories: cicd
+category: cicd
 ---
 
 If you're like me, you develop a lot of things to test on Raspberry Pis (ARM) and then deploy to production on AMD64 processors. This is all well and good, if you don't mind spending time re-building the containers on each architecture, but I do mind. I want to write code, not deal with the back-end non-sense. 
