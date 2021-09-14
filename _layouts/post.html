@@ -12,6 +12,9 @@ layout: default
   
   <h1>{{ page.title }}</h1>
 
+  {% if page.category == "Politics" %}
+    <blockquote><p><b>Warning:</b> This is a political post. It reflects my personal viewpoints. It most likely contains some language because that's what politics does to me. You will most likely disagree with some - or all - of this post, and that's okay. We're allowed to disagree. Please don't come looking for a fight though, because I won't engage.</p></blockquote>
+  {% endif %}
   {{ content }}
   
   /wes

@@ -123,12 +123,14 @@ blockquote {
     margin-left: -50vw;
     margin-right: -50vw;
     color: #212738;
-    padding: 1rem;
+    // padding: 1rem;
     p {
         max-width: 840px;
-        display: block;
+        white-space: pre-wrap;
+        // display: block;
         overflow-x: auto;
         margin: auto;
+        padding: 1rem;
     }
 }
 
