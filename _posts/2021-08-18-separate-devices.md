@@ -3,6 +3,8 @@ layout: post
 category: privacy
 title: "In Favor of Separate Devices"
 published: true
+cw:
+  - language
 ---
 
 People will think I'm crazy for purposely buying a second phone dedicated to work, especially when 95% of the time I work at home. But hear me out...

@@ -13,8 +13,16 @@ layout: default
   
   <h1>{{ page.title }}</h1>
 
-  {% if page.category == "Politics" %}
+  {% if page.cw %}
+  {% for cw in page.cw %}
+  {% if cw == "politics" %}
     <blockquote><p><b>Warning:</b> This is a political post. It reflects my personal viewpoints. It most likely contains some language because that's what politics does to me. You will most likely disagree with some - or all - of this post, and that's okay. We're allowed to disagree. Please don't come looking for a fight though, because I won't engage.</p></blockquote>
+  {% elsif cw == "language" %}
+    <blockquote><p><b>Warning:</b> This post contains language, sorry about that.</p></blockquote>
+  {% elsif cw == "religion" %}
+    <blockquote><p><b>Warning:</b> This post talks about my perspective on religion.</p></blockquote>
+  {% endif %}
+  {% endfor %}
   {% endif %}
   {{ content }}
   

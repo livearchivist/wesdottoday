@@ -3,6 +3,10 @@ layout: post
 category: Politics
 title: "Somewhere Left of Bernie"
 published: true
+cw:
+  - politics
+  - language
+  - religion
 ---
 
 My 20's were an interesting road of self-discovery and de-programming. I spent my childhood having god, guns, country crammed down my throat - and I must admit - I was taken by it. But once I got outside of my small town Ohio bubble I realized how terrible most of the belief systems I was taught really are. I have spent the last decade trying to align my thinking towards a more global-centric view, instead of one that so narrowly focuses on what's mine. 
