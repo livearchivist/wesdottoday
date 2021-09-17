@@ -13,7 +13,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
-  - jekyll-time-to-read
 
 remote_theme: riggraz/no-style-please
 theme: no-style-please
