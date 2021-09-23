@@ -25,4 +25,5 @@ entries:
         url: /tapes
       - title: pyDeskController
         url: /pydeskcontroller
-      - title: kilo green
+      - title: neutron
+        url: /neutron
