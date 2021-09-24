@@ -19,4 +19,5 @@ A Neutrino is a sensor node that runs a custom Python application to pull data f
 
 <ol start="0">
     <li><a href="/100doc-2021-day0/">Just Getting Started</a></li>
+    <li><a href="/100doc-2021-day1/">Building a REST API</a></li>
 </ol>
