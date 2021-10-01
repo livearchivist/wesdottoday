@@ -21,9 +21,7 @@ entries:
 
   - title: projects
     entries:
-      - title: tapes
-        url: /tapes
-      - title: pyDeskController
-        url: /pydeskcontroller
       - title: neutron
         url: /neutron
+      - title: tapes
+        url: /tapes
