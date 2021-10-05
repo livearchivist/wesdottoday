@@ -26,6 +26,7 @@ From a performance perspective, the Supermicro box is quite old and aside from m
 * NZBGet
 * Transmission
 * Syncthing
+* Home Assistant
 * Neutrinos (2 - Random Data Generators)
 * Wireguard
 * Telegraf
