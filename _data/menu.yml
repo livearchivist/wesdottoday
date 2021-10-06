@@ -23,5 +23,7 @@ entries:
     entries:
       - title: neutron
         url: /neutron
+      - title: bender4
+        url: /bender4
       - title: tapes
         url: /tapes
