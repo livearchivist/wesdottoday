@@ -7,6 +7,11 @@ Neutron is a distributed air quality testing platform. Originally this was born 
 
 I am working on building the platform as a part of 100 Days of Code.
 
+### Repositories
+
+* [wesdottoday/neutron](https://github.com/wesdottoday/neutron)
+* [wesdottoday/neutrino](https://github.com/wesdottoday/neutrino)
+
 ### Neutron
 
 Neutron is the central server running InfluxDB, CouchDB and some helper scripts.
