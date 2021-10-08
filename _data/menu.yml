@@ -25,5 +25,7 @@ entries:
         url: /neutron
       - title: bender4
         url: /bender4
+      - title: hermes
+        url: /hermes
       - title: tapes
         url: /tapes

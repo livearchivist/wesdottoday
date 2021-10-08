@@ -20,7 +20,14 @@ Neutron is the central server running InfluxDB, CouchDB and some helper scripts.
 
 A Neutrino is a sensor node that runs a custom Python application to pull data from the environmental sensors on board and report that data back to the Neutron on network.
 
-### 100 Days of Code
+### 3D Printing
+
+* Base Enclosure - PLA 1.75mm @ 50.15m
+* Sensor Insert - PLA 1.75mm @ 32.38m
+* Lid - PLA 1.75mm @ est 20m (Re-designing)
+* Sensor Carriers - PLA 1.75mm @ 6.57m 
+
+### 100 Days of Neutron 
 
 <ol start="0">
     <li><a href="/100doc-2021-day0/">Just Getting Started</a></li>
