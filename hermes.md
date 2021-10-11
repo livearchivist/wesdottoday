@@ -7,6 +7,8 @@ This CyberDeck is loosely based on [this beast](https://www.reddit.com/r/cyberDe
 
 It will be heavy, solid, and offer a high level of performance. I will start out with the Intel NUC6i5SYB that I have on-hand, then move to one of the newer models once funds allow. The keyboard layout is yet to be chosen, but will be a split ortholinear model. I will have custom CNC cut metal plates made to ensure a good heavy feel for the keyboard. 
 
+I intend to use aviation connectors between the keyboard sections and for power input. I will design a custom power cable, ethernet connector and a few other items to complete the design. 
+
 This deck is still being fleshed out, but I figured I'd start collecting my thoughts here.
 
 ### BOM
