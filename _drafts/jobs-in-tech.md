@@ -46,3 +46,8 @@ title: "Jobs in Tech"
 * Engineering
     - Pending | [Jessica Litwin](https://twitter.com/press5)
     - Pending | [Tyler Christiansen](https://twitter.com/supertylerc)
+    
+### Sponsorship Options in the Future
+
+* [Jill Wolner @ Underpin](Underpin.company)
+* [Polywork](https://polywork.com) 
