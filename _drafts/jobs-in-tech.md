@@ -1,7 +1,13 @@
 ---
 layout: page
-title: "Jobs in Tech"
+title: "Uncommon Jobs in Tech"
 ---
+
+### Overview
+
+A podcast focussed on sharing the more uncommon jobs in tech. Software Engineering is over-represented from a collective mindshare, when there are many other roles that are out there that can offer an interesting career that pays well.
+
+### Interview Ideas
 
 * Product Overlay
     - Confirmed | [Chandler Bassett](https://twitter.com/WhiskiedGinger)
