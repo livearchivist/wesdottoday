@@ -11,11 +11,20 @@ A podcast focussed on sharing the more uncommon jobs in tech. Software Engineeri
 
 * Product Overlay
     - Confirmed | [Chandler Bassett](https://twitter.com/WhiskiedGinger)
+* Networking/Kubernetes
+    - Confirmed | [Marino Wijay](https://twitter.com/marino)
+    - Pending | [Ian Coldwater](https://twitter.com/IanColdwater)
+* Consumate Bullshit Artist / Principal
+    - Pending | [Joe Onisick](https://twitter.com/JoeOnisick)
 * Technical Marketing
     - Pending | [Laura Jordana](https://twitter.com/laurajordana22)
     - Pending | [Matt Slotten](https://twitter.com/matt5lot10)
+    - Pending | [Pete Lumbis](https://twitter.com/PeteCCDE)
+* Startup CEO
+    - Pending | [Dheeraj Pandey](https://twitter.com/dheeraj)
+    - Pending | [Sudheesh Nair](https://twitter.com/sudheenair)
 * Engineering Management
-    - Pending | [Taylor Poindexter](https://twitter.com/engineering_bae)
+    - Confirmed (Delayed) | [Taylor Poindexter](https://twitter.com/engineering_bae)
 * Technical Enablement
     - Pending | [Peter Walker](https://twitter.com/vPeteWalker)
     - Pending | [Bill Parks](https://twitter.com/WilliamMParks)
