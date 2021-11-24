@@ -12,14 +12,15 @@ Compensation disparity between sexes and races have been caused by the idea that
 
 ## Current: 
 
-- **Manager, Technical Marketing** [Aug 2021 - Current] - $190k Base, 15% Bonus, ~$80k/yr in Stock
+- **Senior Technical Marketing Engineer** [Dec 2021 - Current] - $220k Base, ~$80k/yr in stock (public)
 
 ## Previous:
 
-- **Principal Tech Marketing Engineer** [Aug 2021] - $221k, $55k/yr in stock
-- **Senior Tech Marketing Engineer** [Dec 2019 - Jul 2021] - $205k starting raised to $215k, ~$25k/yr in stock
-- **Senior Sales Engineer** [Aug 2016 - Nov 2019] - $194k OTE 70:30 salary:commission, Small stock grants
-- **Sales Engineer** [Apr 2015 - Jul 2016] - $160k OTE 70:30 salary:commission starting, raised to $176k, ~$200k Options over 4 years
+- **Manager, Technical Marketing** [Aug 2021 - Current] - $190k Base, 15% Bonus, ~$80k/yr in Stock (private)
+- **Principal Tech Marketing Engineer** [Aug 2021] - $221k, $55k/yr in stock (public)
+- **Senior Tech Marketing Engineer** [Dec 2019 - Jul 2021] - $205k starting raised to $215k, ~$25k/yr in stock (public)
+- **Senior Sales Engineer** [Aug 2016 - Nov 2019] - $194k OTE 70:30 salary:commission, Small stock grants (public)
+- **Sales Engineer** [Apr 2015 - Jul 2016] - $160k OTE 70:30 salary:commission starting, raised to $176k, ~$200k Options over 4 years (private)
 - **Lead Architect** [May 2014 - Mar 2015] - $55k (massively underpaid)
 - **Virtualization Engineer** [Oct 2012 - May 2014] - $45k starting, raised to $50k
 - **Senior Desktop Analyst** [Sep 2011 - Sep 2012] - $42k
