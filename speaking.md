@@ -7,7 +7,7 @@ I'm currently not accepting any external speaking slots as I am transitioning to
 
 ### Bio
 
-> Wes Kennedy is a seasoned datacenter architect working at Druva as a Manager of Technical Marketing. He focuses on creating content for Druva's Hybrid and Native Cloud products. Previously Wes was a Principal TME for Nutanix. Prior to that, he was a SLED Sales Engineer for Nutanix and a Lead Architect for a telehealth company. He spends much of his free time with his wife and son in their backyard and is hoping to begin traveling again soon. Wes is passionate about live music and has a ridiculously large collection of recordings. 
+> Wes Kennedy is a seasoned datacenter architect working at NVIDIA as a Senior Technical Marketing Engineer covering DPU and DOCA. Previously Wes was a Principal TME for Nutanix. Prior to that, he was a SLED Sales Engineer for Nutanix and a Lead Architect for a telehealth company. He specializes in datacenter architecture, storage, Kubernetes, and is not a completely terrible coder. He spends much of his free time with his wife and son in their backyard and is hoping to begin traveling again soon. Wes is passionate about live music and has a ridiculously large collection of recordings. 
 
 ### Alt Bio
 
