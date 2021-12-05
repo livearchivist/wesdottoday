@@ -3,6 +3,7 @@ window.onload = function () {
     'use strict';
   
     var words = [
+        'person',
         'husband',
         'father',
         'hacker',
