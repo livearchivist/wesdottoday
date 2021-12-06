@@ -2,7 +2,9 @@
     "ratings": [
         {
             "name": "Blanton's",
-            "rating": "86"
+            "rating": "86",
+            "country": "United States of America",
+            "type": "Bourbon"
         }
     ]
 }
