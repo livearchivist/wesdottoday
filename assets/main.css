@@ -160,6 +160,23 @@ height: auto;
     line-height: 1.3;
 }
 
+#share-section {
+    background-color: #313131;
+    color: #e7e7e7;
+}
+
+#share-container {
+    margin: auto;
+    max-width: 900px;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    text-transform: uppercase;
+    font-size: 2em;
+    line-height: 1.3;
+}
+
 #passion-container p {
     padding-top: 3vh;
 }
