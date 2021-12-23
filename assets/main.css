@@ -356,6 +356,9 @@ footer a:hover {
         padding-top: 20vh;
         padding-bottom: 20vh;
     }
+    .writing {
+        font-size: 1.2rem;;
+    }
     footer {
         width: 110%;
         overflow: hidden;
