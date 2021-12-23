@@ -232,8 +232,10 @@ height: auto;
 .writing blockquote {
     text-transform: uppercase;
     padding-left: 1rem;
+    padding-right: 1rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    text-align: center;
 }
 
 .writing code {
@@ -367,6 +369,7 @@ footer a:hover {
     }
     .writing blockquote {
         font-size: 4rem;
+        text-align: center;
     }
     footer {
         width: 110%;
