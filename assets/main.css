@@ -202,6 +202,55 @@ height: auto;
     color: #76b900;
     text-decoration: underline;
 }
+
+.writing {
+    margin: auto;
+    max-width: 900px;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+.writing p {
+    padding-bottom: 1.0rem;
+}
+
+.writing h3 {
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
+}
+
+.writing ol, ul {
+    list-style: disc;
+    padding-left: 2.1rem;
+}
+
+.writing blockquote {
+    text-transform: uppercase;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.writing code {
+    background-color: #000000;
+    color: #76b900;
+}
+
+.writing-section-light {
+    background-color: #e7e7e7;
+    color: #313131;
+}
+
+.writing-section-dark {
+    background-color: #313131;
+    color: #e7e7e7;
+}
+
 /* Footer Stuff */
 
 footer {
