@@ -356,8 +356,11 @@ footer a:hover {
         padding-top: 20vh;
         padding-bottom: 20vh;
     }
-    .writing {
-        font-size: 2rem;;
+    .writing p{
+        font-size: 3rem;
+    }
+    .writing h3{
+        font-size: 4rem;
     }
     footer {
         width: 110%;
