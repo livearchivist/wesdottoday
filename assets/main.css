@@ -362,6 +362,9 @@ footer a:hover {
     .writing h3{
         font-size: 4rem;
     }
+    .writing blockquote {
+        font-size: 4rem;
+    }
     footer {
         width: 110%;
         overflow: hidden;
