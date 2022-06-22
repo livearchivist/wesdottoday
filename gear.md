@@ -23,9 +23,7 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 [configuration]()
 
-- NixOS
-- i3wm
-- Amnesia-tic Encrypted ZFS Filesystem
+- Ubuntu 20.04 (I had to switch from NixOS to Ubuntu to have more solid support for development on NVIDIA BlueField-2 - my dayjob)
 
 ### maracapants
 
