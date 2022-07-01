@@ -20,6 +20,8 @@ I care greatly about the people around me. That includes my family, friends, tea
 
 I always put my family over my career. I take breaks during my workday to spend time with my wife and son. I'll often go for a long walk with my son (1yo) to think about a problem or clear my head. I strive to be present in my life, although I don't always succeed. There will always be more work to do and more capitalism to feed, but our days our numbered and our time with loved ones is far too short.
 
+I am recently diagnosed ADHD, which I'm finding to be a superpower when managed properly. Unfortunately, it's gone un-diagnosed and un-managed for close to two decades. It's amazing how clear things become and how much easier I'm finding it to focus on the project at hand now that it's being managed properly. 
+
 I enjoy a good whiskey (boubon, scotch, Japanese whiskey, etc), particularly when sharing it with a friend. I think whiskey has the ability to transport us to different places, through different flavor profiles and memory association. Certain whiskies will remind me of time spent with a certain friend or of a place I've visited.
 
 I have an obscenely large live music collection. Before a catastrophic hard drive failure (hard drives don't like to swim), I had just over 75TB of live music archived. I'm slowly building up my collection again, but I'm only allowing music into the collection once I've sanitized and cleaned the metadata, file names, etc. It's a lot of manual work, but I'm also trying to build a management tool to help automate some of this for me. 
