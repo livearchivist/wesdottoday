@@ -15,15 +15,13 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 - Boxx Apexx T4 Everest
 - AMD Threadripper PRO 3975WX 32-Cores @ 4.2GHz
 - 512GB memory
-- (6) Micron 1.92TB NVMe
+- (2) Micron 1.92TB NVMe
 - (2) NVIDIA A6000 GPUs
 - NVIDIA BlueField-2 100G DPU
 
 **Software**
 
-[configuration]()
-
-- Ubuntu 20.04 (I had to switch from NixOS to Ubuntu to have more solid support for development on NVIDIA BlueField-2 - my dayjob)
+- Ubuntu 20.04 Desktop (I had to switch from NixOS to Ubuntu to have more solid support for development on NVIDIA BlueField-2 - my dayjob)
 
 ### maracapants
 
@@ -37,11 +35,7 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 **Software**
 
-[configuration]()
-
-- NixOS
-- i3wm
-- Amnesia-tic Encrypted ZFS Filesystem
+- Ubuntu 22.04 Desktop
 
 ### goofynewton
 
@@ -52,17 +46,12 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 - QNAP TS-873A
 - 64GB Memory
 - (2) 500GB NVMe
-- (2) 2TB SSD (will be replaced with 2*14TB HDDs to expand storage)
-- (6) 14TB Toshiba Enterprise HDD
+- (1) 2TB SSD
+- (7) 14TB Toshiba Enterprise HDD
 
 **Software**
 
-[configuration]()
-
-Today it runs QNAP QTS, but will be migrated over to NixOS in the near future. It will follow my Amnesia-tic Encrypted ZFS Filesystem design with remote SSH unlock capabilities.
-
-- NixOS
-- Amnesia-tic Encrypted ZFS Filesystem
+- Ubuntu 22.04 Server
 
 ### wkennedy-mlt
 
