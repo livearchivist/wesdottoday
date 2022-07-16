@@ -25,7 +25,7 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 ### maracapants
 
-`maracapants` is my personal laptop that gets used for lots of random projects. It's most likely going to be replaced in the next year or so.
+`maracapants` is my personal laptop that gets used for lots of random projects. It's most likely going to be replaced in the next year or so with a M2 MacBook Air.
 
 **Specs**
 
@@ -70,4 +70,17 @@ This machine is currently not managed via Nix, but I've got some plans to put to
 
 ### goofycalahan
 
-`goofycalahan` is going to be our secondary replication target for our NAS. Any important or key information will be replicated offsite to a friend's house. 
+`goofycalahan` is mostly for work, but it does live at my house. It's a QNAP TS-h1290FX (all NVMe) with plenty of horsepower. I need this for some work demos, but it'll probably end up doing some fun stuff for personal use too.
+
+**Specs**
+
+- QNAP TS-h1290FX
+- 128GB Memory
+- AMD EPYC 7302P 16-Core @ 3.3Ghz
+- (12) 3.2TB Samsung Gen 4 U.2 NVMe
+- (1) NVIDIA Bluefield-2 100G DPU
+- (1) Mellanox 200G CX-6
+
+**Software**
+
+- Ubuntu 20.04 Server 
