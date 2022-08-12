@@ -55,21 +55,19 @@ How have I gotten here? A lack of air cover.
 
 Air cover can be broken down into a four key areas, which I'll dive into below.
 
-### 1. Shelter from meetings
+### Air_Cover['Shelter from meetings']
 
 Engineers _rarely_ find a meeting productive. If we're not committing code or moving a task to the Done column in Trello, we don't feel productive.
 
-Engineers should **never** be in meetings that are status updates or product updates. Status updates on projects should be provided through a commonly agreed upon tool and **you** as the manager are responsible for disseminating that information to various stakeholders. The closer to a project deadline you are, the more important it is that engineers are not in these meetings. 
+Engineers should __never__ be in meetings that are status updates or product updates. Status updates on projects should be provided through a commonly agreed upon tool and __you__ as the manager are responsible for disseminating that information to various stakeholders. The closer to a project deadline you are, the more important it is that engineers are not in these meetings. 
 
-What I've experienced in my current role is the exact opposite. I've been put on more and more status meetings the closer to deadline we're getting. Any pushback I've given has been met with resistance. Even though I've been given air cover by my skip level to not attend, I'm not feeling supported by my direct management to ensure that the updates get through. Instead, when I don't attend, I find individuals emailing me asking for the updates. Normally, that would be not entirely unreasonable, but with dozens of stakeholders I'm spending half of my week, every week, updating people on the slow progress. Think of what I could do if I could recover that time. 
+Product Updates should almost always be provided in written form, or be made available via video for review when the team member has time for it. This is not a reason to schedule another meeting.
 
-Product Updates should almost always be provided in written form, or be made available via video for review when the team member has time for it.
-
-_Most_ engineers should not be in meetings that are strategic planning in nature. I say "most" here, because Principal, Staff, and Team Lead Engineers should spend some of their time providing technical input into strategy of the product that they work on, but that time spent should be largely determined by them.
+_Most_ engineers should not be in meetings that are strategic planning in nature. I say _"most"_ here, because Principal, Staff, and Team Lead Engineers should spend some of their time providing technical input into strategy of the product that they work on, but that time spent should be largely determined by them.
 
 Engineers are expensive, why waste their time on administrative tasks that can easily solved?
 
-### 2. Space
+### Air_Cover['Space']
 
 Engineering is an interesting skillset, which tends to attract people with minds that work in a similar way - most of us need long, uninterrupted time to produce quality work. There have been tons of studies about what context switching does for an engineer, but I'll share my experience because I'm intimately familiar with how my brain works.
 
@@ -98,11 +96,11 @@ Our brains crave interesting and creative things, so when we don't find it in th
 
 We should have this space at work and not just explore these things in our personal time. Honestly, this is why I have such a problem with the Home Lab concept. It's important, for sure, but if you're not being provided the time at work to explore and try things, then all you do is spend time in front of a screen. 
 
-### 3. Help
+### Air_Cover['Help']
 
 If an engineer ever asks for specific help, make it happen. Full stop. If they ask for it multiple times, there's a real problem. If you are unable to provide this help, or the organization is unwilling, don't just let time lapse and leave your employee waiting. Be upfront and tell them the situation. Don't give them false hope that help is on the way, if it's not.
 
-### 4. Tools
+### Air_Cover['Tools']
 
 There should never be a single instance where engineers should not have the tools they need to get the job done. Be it a powerful enough laptop so they don't spend 8+ hours rendering a video they're working on, multiple displays, a good chair, or lab gear to ensure that certain things work. Fight for the budget if you have to, but never leave an engineer sitting there without the tools to get their job done. Thankfully, my current role is very good at this, but my last role fought me over needing a $2500 laptop instead of the 3 year old, used, underpowered one they gave me that was basically useless.
 
