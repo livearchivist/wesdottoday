@@ -35,7 +35,7 @@ It took several hours for us to get into a room and get settled in. Her hemoglob
 
 A cancellation enabled her to get in a bit earlier for surgery. It was successful. 
 
-Missy is at home, resting and healing. I've been primary (mostly without backup) with Charlie, while trying to manage work, home stuff, food, and more. We've had a lot of support from my Mother-in-Law, my sister, our cousins (Joe! Kate - OMG Kate!), neighbors, friends, and tech twitter. 
+Missy is at home, resting and healing. I've been primary with Charlie, while trying to manage work, home stuff, food, and more. We've had a lot of support from my Mother-in-Law, my sister, our cousins (Joe! Kate - OMG Kate!), neighbors, friends, and tech twitter. 
 
 Several people from Tech Twitter have helped with meals, or contributed to enable us to up the freqency our cleaner comes for a while until we get on our feet. 
 
