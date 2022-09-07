@@ -14,6 +14,8 @@ I listen to, collect, and archive 🎷 Live Music
 
 I'm working on improving 🌎 Indoor Air Quality
 
+I'm a hell of a datacenter and application architect. Scoping out unusual application requirements, solving unique business issues with technology, or figuring out what the next gen architecture will be is where my head lives most of the time. 
+
 ### Digging deeper
 
 I care greatly about the people around me. That includes my family, friends, team mates, and the tech community I'm a part of on [Twitter](https://twitter.com/wesdottoday). I work with people who want to grow their careers, to direct them in directions they may not have found on their own, make introductions, and mentor when needed. I believe if we spent more of our time focusing on the people who work in tech, rather than on the tech itself, we would have a happier, healthier, more inclusive, and more productive industry. 
@@ -30,7 +32,8 @@ Indoor Air Quality has become a big passion of mine in the last several years. A
 
 ### Specializations
 
-- Datacenter and Mission Critical Application Architecture
+- Datacenter and Mission Critical Application Architecture and Design
+- Technical Marketing
 - VMware, Acropolis, Kubernetes
 - Hyperconverged Systems (Nutanix, VMware VSAN)
 - Containerization
