@@ -31,7 +31,7 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 - Lenovo T480S
 - 24GB Memory
-- 1TB NVMe
+- 2TB NVMe
 
 **Software**
 
