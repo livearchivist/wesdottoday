@@ -26,7 +26,7 @@ So does Nutanix build out support for workloads like this and fingerprint them l
 
 The point of this blog post isn't to rag on Nutanix, because they've done a remarkable job of building one of the most resilient computing platforms on the planet, while maintaining a ridiculously high NPS score for more than a decade. The point of the last few paragraphs was to point out that the industry shifted, workloads evolved, and that can quickly render a highly performant and resilient platform ineffective to those workloads, without the ability to rapidly shift course and support them. I'm confident that Nutanix _could_ make the shift if needed, but I'm not sure under the current leadership would make that decision. 
 
-More important than that, I believe that if you're an employee at any company you, need to pay attention to situations like this. It's easy to drink the company Kool-Aid&trade; and think that what you're working on is what the industry wants, but that can change at the drop of a hat. 
+More important than that, I believe that if you're an individual contributor you need to pay attention to situations like this. It's easy to drink the company Kool-Aid&trade; and think that what you're working on is what the industry wants, but that can change at the drop of a hat. 
 
 I could have easily stayed at Nutanix for 5 more years, even 10, and been happy. The culture, the people, are all excellent. But I saw the industry changing, I saw opportunities being missed, I saw growth opportunity for my career, so I left. It hasn't been all rainbows and butterflies, but my mind has been opened up to a greater space, more exotic technology and environments, and I'm now understanding a broader image of the market. 
 
