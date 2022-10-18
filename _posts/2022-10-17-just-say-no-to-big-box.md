@@ -9,7 +9,7 @@ published: true
 
 > TL;DR; Don't use a big box store, especially Lowe's, for something as important as your kitchen appliances - they will not fulfill their warranty guarantees and will waste hours of your time in order to drive you to take matters into your own hands.
 
-In 2019 we remodeled our entire house, including the kitchen. During the remodel, we bought all new Bosch 800 series appliances from Lowes. The were able to significantly beat the pricing of the local companies we were talking to, and since we were already at nearly 2x our original budget for the remodel, saving a few grand was worth it to us at the time to shop big box. We even ponied up for their extended 5 year warranty to prepare for a situation like what happened two months ago, our freezer stopped cooling, followed shortly by our fridge. 
+In 2019 we remodeled our entire house, including the kitchen. During the remodel, we bought all new Bosch 800 series appliances from Lowes. They were able to significantly beat the pricing of the local companies we were talking to, and since we were already at nearly 2x our original budget for the remodel, saving a few grand was worth it to us at the time to shop big box. We even ponied up for their extended 5 year warranty to prepare for a situation like what happened two months ago, our freezer stopped cooling, followed shortly by our fridge. 
 
 ### 3-Aug-2022
 
@@ -31,7 +31,7 @@ No one called.
 
 Two Months since our fridge failed. I call in again and they say "we're sorry no one called you back, but we can't find anyone to perform the work" to which I was getting ready to respond, but then she said "but I will transfer your ticket to the _Service Locator_ team to find someone that can do the work." Incredible. I was starting to build a picture in my mind that the SL team is a sink hole for stuff they don't want to deal with. I asked to be transfered live to the SL team so I could speak with them, but was promptly told that they don't accept inbound calls. So, I asked for a supervisor.
 
-The supervisor didn't review any case notes and asked me to retell the story. Frustrated, I do. I have notes. He then stated that he saw no record of my request being sent to the _Service Locator_ team, which shocked me. Either they are really bad at their jobs, or they're actively trying to not capture information in order to not have a paper trail of not fulfilling their warranties. I asked to be transfer to his supervisor, but was told he is the highest level of escalation for customers. This person had no recourse available for me but transfering my case to the _Service Locator_ team. 
+The supervisor didn't review any case notes and asked me to retell the story. Frustrated, I do. I have notes. He then stated that he saw no record of my request being sent to the _Service Locator_ team, which shocked me. Either they are really bad at their jobs, or they're actively trying to not capture information in order to not have a paper trail of not fulfilling their warranties. I asked to be transfered to the supervisor's supervisor, but was told he is the highest level of escalation for customers. This person had no recourse available for me but transfering my case to the _Service Locator_ team. 
 
 He once again states that he will forward my request to the _Service Locator_ team and that I should expect a call back in 48 hours.
 
