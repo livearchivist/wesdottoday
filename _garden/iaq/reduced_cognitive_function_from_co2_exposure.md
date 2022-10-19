@@ -11,7 +11,7 @@ tags:
   - co2
 type: branch
 published: true
-permalink: /garden/iaq/reduced_cognitive_function_from_co2_exposure
+permalink: /garden/iaq/reduced_cognitive_function_from_co2_exposure.html
 ---
 
 Carbon Dioxide is something that has been monitored for a long time in sealed environments. Living creatures, by and large, emit CO2[^co2] as a part of their respiration and when you're in a sealed environment the oxygen content will lower over time. As oxygen content lowers and CO2 increases beyond 1500ppm[^ppm], cognitive function can be measurably reduced. 

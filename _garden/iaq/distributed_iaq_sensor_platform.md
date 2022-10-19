@@ -9,5 +9,5 @@ tags:
 status: Empty
 type: branch
 published: true
-permalink: /garden/iaq/distributed_iaq_sensor_platform
+permalink: /garden/iaq/distributed_iaq_sensor_platform.html
 ---
