@@ -116,7 +116,38 @@
   }
 }
 
+/**
+ * Hero
+ **/
 
+.hero {
+  width: 100vw;
+}
+
+/**
+ * footnotes
+ */
+
+.footnotes {
+  border-top: 1px solid $border-color-01;
+  margin-top: $spacing-unit * 2;
+}
+
+.footnotes:before {
+  content: "footnotes:"
+}
+
+.footnotes ol {
+  padding-top: $spacing-unit * 2;
+}
+
+/**
+ * branches
+ */
+
+.branch-list {
+  border-top: 1px solid $border-color-01;
+}
 
 /**
  * Site footer
