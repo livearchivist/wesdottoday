@@ -12,6 +12,7 @@ tags:
 status: Fledgling
 type: root
 published: true
+permalink: /garden/iaq
 ---
 
 After spending three years trying to conceive Charlie we learned a lot. We learned that inflamation is one of the largest causes of sickness or disease in our bodies, particularly when it comes to reproductive health. Not enough medical advice focuses on [how you can remove inflamation from your body](how_you_can_remove_inflamation_from_your_body.html). Among many things we found when diving down the path to removing inflamation from our bodies was how poor indoor air quality can contribute to additional inflamation in your body, among many other issues like [reduced cognitive function from CO2 exposure](reduced_cognitive_function_from_co2_exposure.html). 

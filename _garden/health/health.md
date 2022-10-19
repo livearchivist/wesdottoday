@@ -8,4 +8,5 @@ tags:
 status: Fledgling
 type: root
 published: true
+permalink: /garden/health
 ---

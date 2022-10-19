@@ -11,4 +11,5 @@ tags:
 status: Empty
 type: branch
 published: true
+permalink: /garden/iaq/using_algae_to_trap_co2_in_home_hvac
 ---

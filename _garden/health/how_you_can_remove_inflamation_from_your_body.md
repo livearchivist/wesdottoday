@@ -10,4 +10,5 @@ tags:
 status: Empty
 type: branch
 published: true
+permalink: /garden/health/how_you_can_remove_inflamation_from_your_body
 ---
