@@ -1,0 +1,17 @@
+---
+layout: garden
+title: Digital Garden
+permalink: /garden/
+---
+
+<p>Welcome to my digital garden. It's the public portion of my brain, where thoughts that I've deemed reasonable enough to put out there are posted. This is more for my benefit than yours, but I really like the idea of <a target="_blank" href="https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu">Work[ing] with the garage door up</a>.</p>
+
+<h2>Roots already planted...</h2>
+
+{% for p in site.garden %}
+  {% if p.type == "root" %}
+    <h3 class="post-list-heading"><a class="post-link" href={{ p.url }}>{{ p.title | downcase }}</a></h3>
+  {% endif %}
+{% endfor %}
+
+

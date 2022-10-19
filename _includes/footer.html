@@ -1,0 +1,68 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <div class="wrapper">
+    
+      <div class="footer-col-wrapper">
+        <div class="footer-col">
+          <p class="feed-subscribe">
+            <a href="{{ 'feed.xml' | relative_url }}">
+              <svg class="svg-icon orange">
+                <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+              </svg><span>subscribe</span>
+            </a>
+          </p>
+        {%- if site.author %}
+          <ul class="contact-list">
+            {% if site.author.name -%}
+              <li class="p-name">{{ site.author.name | escape }}</li>
+            {% endif -%}
+            {% if site.author.email -%}
+              <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            {%- endif %}
+          </ul>
+        {%- endif %}
+        </div>
+        
+        <div class="footer-col">
+          <p>{{ site.description | escape }}</p>
+        </div>
+      </div>
+      {%- if page.url contains "/garden" %}
+      <div class="footer-col-wrapper">
+        <div class="footer-col">
+            
+            <ul class="contact-list">
+                garden roots
+                {% for p in site.garden %}
+                    {% if p.type == "root" %}
+                        <li><a href={{ p.url }}>{{ p.title | downcase }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="footer-col">
+          <ul class="contact-list">
+            {% assign garden_cats = site.garden | group_by: 'category' %}
+            {% for g in garden_cats %}
+                {% if g.name == page.category %}
+                    {{ g.name | downcase }} branches
+                    {% for p in g.items limit: 5 %}
+                        {% if p.type == "branch" %}
+                            <li><a href={{ p.url }}>{{ p.title | downcase }}</a></li>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
+  
+      <div class="social-links">
+        {%- include social.html -%}
+      </div>
+  
+    </div>
+  
+  </footer>

@@ -1,0 +1,51 @@
+---
+layout: garden
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <p class="post-meta">
+      init  
+      {%- assign date_format = site.minima.date_format | default: "%Y-%b-%-d" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format | downcase }}
+      </time>
+      {%- if page.modified_date -%}
+        and last updated on 
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format | downcase }}
+        </time>
+      {%- endif -%}
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+
+  <div class="branch-list">
+    <h2>branches</h2>
+    <ul>
+        {% assign garden_cats = site.garden | group_by: 'category' %}
+        {% for g in garden_cats %}
+            {% if g.name == page.category %}
+                {% for p in g.items %}
+                    {% if p.type == "branch" %}
+                        <li><a href={{ p.url }}>{{ p.title | downcase }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
