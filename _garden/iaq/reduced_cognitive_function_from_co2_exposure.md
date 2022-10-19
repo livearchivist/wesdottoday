@@ -14,7 +14,7 @@ published: true
 permalink: /garden/iaq/reduced_cognitive_function_from_co2_exposure.html
 ---
 
-Carbon Dioxide is something that has been monitored for a long time in sealed environments. Living creatures, by and large, emit CO2[^co2] as a part of their respiration and when you're in a sealed environment the oxygen content will lower over time. As oxygen content lowers and CO2 increases beyond 1500ppm[^ppm], cognitive function can be measurably reduced. 
+Carbon Dioxide is something that has been monitored for a long time in sealed environments. Living creatures, by and large, emit CO2 [^co2] as a part of their respiration and when you're in a sealed environment the oxygen content will lower over time. As oxygen content lowers and CO2 increases beyond 1500ppm [^ppm], cognitive function can be measurably reduced. 
 
 > "Recent studies reveal that higher than normal levels of CO2 decrease cognitive functions that lead to productivity issues in office workers. In education settings, excessive CO2 levels lead to lower student test scores. CO2 levels have steadily increased indoors the last three decades as construction codes mandated tighter building envelopes in the quest for better energy efficiency. Therefore, today’s tighter building construction methods are partially responsible for this alarming rise CO2. The solution is adding energy-efficient outdoor air technology to dilute indoor airborne CoC, including, but not limited to CO2, so it has minimal effect on the human condition." [^hpac]
 
@@ -24,7 +24,7 @@ When we look at this problem through the lense of United States home constructio
 
 Newer building codes call for tighter sealed buildings, but HVAC code has not caught up with this. So often we will find newer homes that are insulated and sealed better, but still have very high CO2 levels because there is not adequate fresh air being brought into the building from outside. 
 
-The solution to both issues, whether old house or new, is HVAC that is designed to bring in fresh air from outside - which is often accomplished with an ERV[^erv] or HRV[^hrv]. Couple improving your HVAC with monitoring of gas levels in each room and you've got a recipe for success.
+The solution to both issues, whether old house or new, is HVAC that is designed to bring in fresh air from outside - which is often accomplished with an ERV [^erv] or HRV [^hrv]. Couple improving your HVAC with monitoring of gas levels in each room and you've got a recipe for success.
 
 Of course, all of these things cost money, and there isn't always a method of having your employer pay for something like HVAC improvements in your home, so we often have to come up with solutions ourselves and foot the bill. That's what I'm in the process of doing. We installed an ERV at the start of the pandemic and we are slowly deploying [custom sensors that I've developed](distributed_iaq_sensor_platform.html) throughout the house. 
 
@@ -44,7 +44,7 @@ If you assume 5 days a week, 48 weeks a year of working days, you get 240 days t
 
 The article quoted above continues to state that above 1400ppm, CO2 concentrations can decrease your basic decision-making ability by 25% and complex strategic thinking by up to 50%. That's a serious problem for knowledge workers who spend a lot of time doing strategic thinking. 
 
-The study itself[^co2study] is a fascinating read and I highly suggest reading it at least once.
+The study itself [^co2study] is a fascinating read and I highly suggest reading it at least once.
 
 
 
