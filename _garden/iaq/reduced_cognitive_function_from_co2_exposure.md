@@ -38,8 +38,13 @@ Studies have shown about a 15% reduction [^red] in cognition on a day of exposur
 
 If you assume 5 days a week, 48 weeks a year of working days, you get 240 days that you spend at work. That's a lot of time. 15% of that is 36 days - over a month. So if you're performing at a 15% reduction of your normal capacity, and we assume that your productivity is linear (which it certainly is not), you are effectively reducing your working mental capacity by a month each year. That's not an insignificant amount of reduction.
 
-So what does cognitive decline look like? .... To be written
+### what does cognitive decline look like?
 
+> "It appears that high-level cognitive domains like decision-making and planning are especially susceptible to increasing CO2 concentrations." [^anna]
+
+The article quoted above continues to state that above 1400ppm, CO2 concentrations can decrease your basic decision-making ability by 25% and complex strategic thinking by up to 50%. That's a serious problem for knowledge workers who spend a lot of time doing strategic thinking. 
+
+The study itself[^co2study] is a fascinating read and I highly suggest reading it at least once.
 
 
 
@@ -54,3 +59,7 @@ So what does cognitive decline look like? .... To be written
 [^hpac]: [HPAC - Increasing Cognitive Function by Decreasing Indoor CO2 Levels](https://www.hpac.com/iaq-ventilation/article/20929934/increasing-cognitive-function-by-decreasing-indoor-co2levels)
 
 [^red]: [EHP - Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers: A Controlled Exposure Study of Green and Conventional Office Environments](https://ehp.niehs.nih.gov/doi/10.1289/ehp.1510037#t5)
+
+[^anna]: [Continued CO2 emissions will impair cognition](https://penntoday.upenn.edu/news/continued-CO2-emissions-will-impair-cognition-Penn-Boulder-study)
+
+[^co2study]: [Fossil Fuel Combustion Is Driving Indoor CO2 Toward Levels Harmful to Human Cognition](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GH000237)
