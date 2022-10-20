@@ -15,7 +15,7 @@ permalink: /garden/iaq/using_mobile_sensor_to_track_school_iaq.html
 
 A friend of mine recently came to me asking if his son could take a mobile sensor into his school to track the indoor air quality, to which I said "Of course!"
 
-His son has been complaining that in one particular room, he feel tired and slow during class. I've been a teenager before, so I immediately thought that it was maybe due to him being a tired teenager, but then I got to thinking about how poorly designed the school I went to was too. Maybe we have a serious fresh air problem in our schools.
+His son has been complaining that in one particular room he feels tired and slow during class. I've been a teenager before, so I immediately thought that it was maybe due to him being a tired, but then I got to thinking about how poorly designed the school I went to was too. Maybe, (probably) we have a serious fresh air problem in our schools?
 
 So the plan is in motion. I will be taking a Raspberry Pi Pico W and pairing it with a SCD-41 [^scd41] sensor, which has the ability to track Temperature, Humidity, and CO2. This is an actual CO2 sensor, rather than eCO2 [^eco2]. There are a few problems with this setup:
 
