@@ -35,7 +35,15 @@ When he gets home from school and re-joins wifi, the data points will be uploade
 
 ### Date/Time
 
-Since we won't have wifi during most of the time that he will be collecting data, we needed to set the time at home first, then go about his day. Thankfully that is solved by joining the wifi at home, setting the RTC using NTP, then going to school. 
+Since we won't have wifi during most of the time that he will be collecting data, we needed to set the time at home first, then go about his day. Thankfully that is solved by joining the wifi at home, setting the RTC using NTP, then going to school.
+
+### Progress
+
+- [ ] Design and Print enclosure
+- [ ] IOT onboarding process
+- [ ] NTP/RTC code
+- [ ] Write readings to file
+- [ ] Wifi handling, test every ten readings, if available, push cached readings
 
 ### End Goal
 

@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{%- if page.current_status -%}
+<h1>currently... {{ page.current_status }}</h1>
+{%- endif -%}
 {%- if page.hero -%}
 
   <img src="{{ page.hero }}" alt="{{ page.hero-alt }}" />
