@@ -20,6 +20,9 @@ permalink: "/:title/"
 social:
   twitter: wesdottoday
   github: wesdottoday
+  mastodon:
+    - username: wesdottoday
+      instance: mastodon.social
 
 paginate: 8
 paginate_path: "/:num"
