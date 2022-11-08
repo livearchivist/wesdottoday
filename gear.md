@@ -23,19 +23,21 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 - Ubuntu 20.04 Desktop (I had to switch from NixOS to Ubuntu to have more solid support for development on NVIDIA BlueField-2 - my dayjob)
 
-### maracapants
+### starbuck
 
-`maracapants` is my personal laptop that gets used for lots of random projects. It's most likely going to be replaced in the next year or so with a M2 MacBook Air.
+`starbuck` is my new personal laptop. It replaces a very tired Thinkpad T480s (`maracapants`) and should last me a very long time, given its #righttorepair roots.
 
 **Specs**
 
-- Lenovo T480S
-- 24GB Memory
-- 2TB NVMe
+- [Frame.work](https://frame.work) 12th Gen, DIY
+- Intel i7-1280p
+- Crucial 64GB Memory
+- WD Black SN850 4TB NVMe
 
 **Software**
 
 - Ubuntu 22.04 Desktop
+- Will get configured with a Nix setup in the near future
 
 ### goofynewton
 
@@ -84,3 +86,21 @@ This machine is currently not managed via Nix, but I've got some plans to put to
 **Software**
 
 - Ubuntu 20.04 Server 
+
+---
+
+## Retired Machines
+
+### maracapants (retired)
+
+`maracapants` is my personal laptop that gets used for lots of random projects. It's most likely going to be replaced in the next year or so with a M2 MacBook Air.
+
+**Specs**
+
+- Lenovo T480S
+- 24GB Memory
+- 2TB NVMe
+
+**Software**
+
+- Ubuntu 22.04 Desktop
