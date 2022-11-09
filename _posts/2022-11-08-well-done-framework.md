@@ -51,8 +51,6 @@ The 3:2 display format is one I'm a big fan of, but the oddball size seems to co
 
 Battery life is _okay_. I haven't put it through full paces yet, but I've burned through about 20% in 90 minutes while writing this post. Borg did a backup during this time period of a few gigabytes, but otherwise not much else was going on. I have the screen at about 70% brightness to combat the glare coming from the windows behind me, more on this in a minute. I suspect I'll change some power settings to help dial this in. The good news is, I am rarely more than a few feet from power, but I could see this becoming an issue on cross continental flights so I'll have to check out how well some of my battery packs keep this thing running.
 
-No trackpad backlight, I'm a touch typist, but sometimes I get lost. Not a big loss for me but it might be a bigger deal for some.
-
 ### The Bad
 
 The screen hinges are _terrible_. I'm writing this post with the laptop sitting on a very stable table, but yet the screen is woblling noticeably and it's exacerbated by the reflective glare on the display. The good news to this? You can easily replace the hinges with the [4kg hinge kit](https://frame.work/products/display-hinge-kit?v=FRANFB0002), which I've ordered, because everything on this computer is user repairable. I'll write up the replacement process once I get the new hinges in.
