@@ -14,15 +14,12 @@ plugins:
 
 minima:
   skin: solarized-dark
+  social_links:
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/wesdottoday" }
+    - { platform: gitlab,         user_url: "https://gitlab.wes.today/wk" }
+    - { platform: mastodon,       user_url: "https://hachyderm.io/web/@wesdottoday" }
 
 permalink: "/:title/"
-
-social:
-  twitter: wesdottoday
-  github: wesdottoday
-  mastodon:
-    - username: wesdottoday
-      instance: hachyderm.io
 
 paginate: 8
 paginate_path: "/:num"
