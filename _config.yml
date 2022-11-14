@@ -17,7 +17,7 @@ minima:
   social_links:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/wesdottoday" }
     - { platform: gitlab,         user_url: "https://gitlab.wes.today/wk" }
-    - { platform: mastodon,       user_url: "https://hachyderm.io/web/@wesdottoday" }
+    - { platform: mastodon,       user_url: "https://hachyderm.io/@wesdottoday" }
 
 permalink: "/:title/"
 
