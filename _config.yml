@@ -22,7 +22,7 @@ social:
   github: wesdottoday
   mastodon:
     - username: wesdottoday
-      instance: mastodon.social
+      instance: hachyderm.io
 
 paginate: 8
 paginate_path: "/:num"
