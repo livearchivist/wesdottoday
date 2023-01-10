@@ -99,30 +99,6 @@ _Key Projects_
 
 ### Contact
 
-So you've read this far (why?), and you want to reach out - I welcome it! Here's the deal though, I need you to jump through a few hoops depending on who you are:
-
-**Recruiters**
-
-I'm always open to new opportunities and am happy to consider them, if they're in the following lines of work:
-
-- Technical Marketing (Principal or Director)
-- DevRel 
-- Product Manager in Indoor Air Quality Startup
-
-Companies I have no interest in:
-
-- FAANG
-- Basecamp
-- Any company where Musk owns a controlling interest
-
-The company must be post series-C funding, on solid footing in the industry, hire fully remote, and treat their employees of all types in an equitable way. I will not re-locate for the job.
-
-In the email, list the role, company, and salary and total compensation range. If you cannot share any of those details, I don't have an interest in the opportunity. You can see my compensation history [here](/opencomp) if you'd like to know if it's going to be worthwhile reaching out.
-
-**Anyone Else**
-
-I'd love to hear from you. Please understand that it may take me some time to get back to you, but I will.
+So you've read this far (why?), and you want to reach out - I welcome it! 
 
 **Email: wk [at] thisdomain**
-
-**Twitter: [@wesdottoday](https://twitter.com/wesdottoday)**
