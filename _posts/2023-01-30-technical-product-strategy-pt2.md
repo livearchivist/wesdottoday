@@ -25,7 +25,7 @@ On top of the structural issues that would present if TPS lived inside of Sales,
 
 Below is a diagram of where I envision the TPS function sitting inside of an organization and the inputs they would use into their overall strategy:
 
-```mermaid
+<div class="mermaid">
 graph LR
     A(SRE / Support) <--> B((Technical \nProduct Strategy))
     A <--> C(Customer-side\nLeadership & Engineering)
@@ -40,7 +40,7 @@ graph LR
     B <--> I(Sales & \nSales Engineering)
     B <--> J(Engineering)
     F <--> J
-```
+</div>
 
 ## This Function Already Exists... Sorta
 
