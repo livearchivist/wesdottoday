@@ -4,6 +4,7 @@ title:  "On Being a Technical Product Strategist"
 date:   2022-10-18 08:52:11 -0400
 categories:
   - Career
+  - Product Strategy
 published: true
 ---
 
@@ -26,3 +27,5 @@ So I learned how to bridge the gap. To find the technical solution to the busine
 If you're purely an engineering lead organization, you're going to have a bad time. Marketing isn't a bad word, and most people in marketing aren't what you think of. I strongly believe that Product Marketing is the glue that keeps an organization together, but there's often a gap in how everything functions. 
 
 I believe that Technical Product Strategists could fill that gap, if they're given the power to do so.
+
+[Read Part 2 now!](https://wes.today/technical-product-strategy-pt2/)

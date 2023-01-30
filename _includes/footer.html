@@ -62,6 +62,12 @@
       <div class="social-links">
         {%- include social.html -%}
       </div>
+
+      {% if page.mermaid %}
+
+        {% include mermaid.html %}
+
+      {% endif %}
   
     </div>
   
