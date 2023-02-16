@@ -23,9 +23,9 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 - Ubuntu 20.04 Desktop (I had to switch from NixOS to Ubuntu to have more solid support for development on NVIDIA BlueField-2 - my dayjob)
 
-### starbuck
+### swanson 
 
-`starbuck` is my new personal laptop. It replaces a very tired Thinkpad T480s (`maracapants`) and should last me a very long time, given its #righttorepair roots.
+`swanson` is my new personal laptop. It replaces a very tired Thinkpad T480s (`maracapants`) and should last me a very long time, given its #righttorepair roots.
 
 **Specs**
 
@@ -37,7 +37,6 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 **Software**
 
 - Ubuntu 22.04 Desktop
-- Will get configured with a Nix setup in the near future
 
 ### goofynewton
 
@@ -54,21 +53,6 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 **Software**
 
 - Ubuntu 22.04 Server
-
-### wkennedy-mlt
-
-This machine has a super-fun name, what can I say, it's managed by NVIDIA IT. 
-
-**Specs**
-
-- 16" MacBook Pro M1 Pro
-- M1 Pro
-- 16GB Memory
-- 1TB NVMe
-
-**Software**
-
-This machine is currently not managed via Nix, but I've got some plans to put together a Nix config for it. 
 
 ### goofycalahan
 
