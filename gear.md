@@ -8,7 +8,7 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 ### boomboxx
 
-`boomboxx` is the workhorse of the house. It's a monster machine that allows me to do just about anything I need to. I use this machine primarily for work but sometimes use it for personal projects as well.
+`boomboxx` is the workhorse of the house. It's a monster machine that allows me to do just about anything I need to. I am considering picking up a Mac Studio as a possible replacement, but I'm not entirely sold on the idea.
 
 **Specs**
 
@@ -17,11 +17,11 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 - 512GB memory
 - (2) Micron 1.92TB NVMe
 - (2) NVIDIA A6000 GPUs
-- NVIDIA BlueField-2 100G DPU
+- NVIDIA CX-6 200G NIC
 
 **Software**
 
-- Ubuntu 20.04 Desktop (I had to switch from NixOS to Ubuntu to have more solid support for development on NVIDIA BlueField-2 - my dayjob)
+- Ubuntu 22.04 Desktop
 
 ### swanson 
 
@@ -56,7 +56,7 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 ### goofycalahan
 
-`goofycalahan` is mostly for work, but it does live at my house. It's a QNAP TS-h1290FX (all NVMe) with plenty of horsepower. I need this for some work demos, but it'll probably end up doing some fun stuff for personal use too.
+`goofycalahan` is an all NVMe QNAP, used for lab work.
 
 **Specs**
 
@@ -64,12 +64,11 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 - 128GB Memory
 - AMD EPYC 7302P 16-Core @ 3.3Ghz
 - (12) 3.2TB Samsung Gen 4 U.2 NVMe
-- (1) NVIDIA Bluefield-2 100G DPU
-- (1) Mellanox 200G CX-6
+- (1) NVIDIA 200G CX-6
 
 **Software**
 
-- Ubuntu 20.04 Server 
+- Ubuntu 22.04 Server 
 
 ---
 

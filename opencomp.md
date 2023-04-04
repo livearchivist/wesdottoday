@@ -9,11 +9,11 @@ I believe compensation should be freely talked about:
 
 ### Current 
 
-**Senior Technical Marketing Engineer** [Nov 2021 - Current] - $225k Base, ~$86k/yr in stock (public) + $80k RSU spot bonus in 2022
-- Starting: $220k Base, $80k/yr Stock
+**Principal Technical Marketing Engineer** [Apr 2023 - Current] - $225k Base, 20% Bonus, ~$80k/yr in Stock (offered as ISOs) (private) 
 
 ### Previous
 
+- Senior Technical Marketing Engineer [Nov 2021 - March 2023] - $225k Base, ~$86k/yr in Stock (public), $80k RSU spot bonus in 2022
 - Manager, Technical Marketing [Aug 2021 - Nov 2021] - $190k Base, 15% Bonus, ~$80k/yr in Stock (private)
 - Principal Tech Marketing Engineer [Aug 2021] Promotion just before leaving - $221k, $55k/yr in stock (public)
 - Senior Tech Marketing Engineer [Dec 2019 - Jul 2021] - $205k starting raised to $215k, ~$25k/yr in stock (public)
