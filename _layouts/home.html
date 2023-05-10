@@ -14,9 +14,11 @@ layout: base
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title | downcase }}</h1>
   {%- endif -%}
-
-  {{ content }}
-
+  {%- if page.url == "/" -%}
+    {{ content }}
+  {%- else -%}
+    <h1>post archive</h1>
+  {%- endif -%}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
