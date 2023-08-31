@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Speaker
+permalink: /speaker/
 ---
 
 Below you’ll find some resources that might be helpful when I’m speaking at your event.
