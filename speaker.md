@@ -24,4 +24,4 @@ Wes Kennedy is a Principal Evangelist at SingleStore, where he creates engaging 
 
 If you plan on using the SingleStore logo or branding in any way, please refer to our branding guide linked below.
 
-[SingleStore Brand Guide](/assets/files/s2_brand_guide.pdf) [212MB]
+[SingleStore Brand Guide](https://westodayassets.nyc3.cdn.digitaloceanspaces.com/s2_brand_guide.pdf) [212MB]
