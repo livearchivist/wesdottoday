@@ -1,0 +1,32 @@
+---
+layout: page
+title: content
+permalink: /content/
+---
+
+<p>This is a collection of all of the publicly available content that I've managed to keep track of. There's a lot more running around the web, but I didn't start tracking it until recently.</p>
+
+<ul class="post-list">
+    {% assign contents = site.content | sort: 'date' | reverse %}
+    {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
+    {% for item in contents %}
+        <li>
+            <span class="post-meta">{{ item.date | date: date_format | downcase }}</span><br />
+            <a href="{{ item.ext_url }}" target=_blank>
+                {% assign item_type = item.format | default: "blog" %}
+                {% assign item_title = item.title | truncate: 80 | downcase %}
+                {% if item_type == "webinar" %}
+                    &#128170; {{ item_title }}
+                {% elsif item_type == "youtube" %}
+                    &#128250; {{ item_title }}
+                {% elsif item_type == "podcast" %}
+                    &#127897; {{ item_title }}
+                {% elsif item_type == "conference" %}
+                    &#128747; {{ item_title }}
+                {% else %}
+                    &#9997; {{ item_title }}
+                {% endif %}
+            </a>
+        </li>
+    {% endfor %}
+</ul>

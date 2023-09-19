@@ -2,35 +2,54 @@
 layout: home
 hero: "/assets/images/wes-hero.jpg"
 hero-alt: "Headshot of Wes Kennedy looking off screen"
+now:
+    - "alcohol free since 2023-09-05"
+    - "private llms"
+    - "the tech industry's true impact on the world"
 ---
 
 <br />
-<p>Hi there! I'm Wes Kennedy. This is my little part of the web where I constantly modify and hack at things based on my mood.</p>
-<p>You'll find blog posts, gear lists, and other randoms throughout my site. Head over to my <a href="/about">About</a> page if you're interested to learn more about me or my career.</p>
-<p>Like many people, my writing comes and goes. I've lost a lot of it to time, bad migrations, and heavy editing. Anything that remains posted I still stand by.</p> 
-<p>I'm happy you're here. I love sharing my thoughts with people and diving deep into certain subjects, which for me right now my interests are heavily focussed on NixOS and Indoor Air Quality.</p>
+<p>hi there! I'm wes kennedy. this is my little part of the web where i attempt at being my full self, well mostly my full self. this is not a site intended to varnish who i am, but rather give me a place to talk about anything that's on my mind.</p>
+<p>you'll find blog posts, gear lists, and other randoms throughout my site. head over to my <a href="/about">about</a> page if you're interested to learn more about me or my career.</p>
+<p>like many people, my writing comes and goes. i've lost a lot of it to time, bad migrations, and heavy editing. anything that remains posted i still stand by.</p> 
+<p>i'm happy you're here. i love sharing my passions and ideas with people, as someone (seriously can't remember who) once said: "when someone with adhd gives you an extreme deep dive into something they're interested in, it's a sign of endearment, not them trying to look smart."</p>
+<p>i have adhd and piles of interests, dive in!</p>
 <hr>
-<h2>now</h2>
+<h2>now:</h2>
+<p>this is what is front of mind for me right now...</p>
 <ul>
-    <li>being alcohol free</li>
-    <li>private llms</li>
-    <li>the tech industry's true impact on the world</li>
-    <li></li>
-    <li><a href="/garden/iaq/using_algae_to_trap_co2_in_home_hvac.html">using algae to trap co2 in home hvac</a></li>
+{% for n in page.now %}
+    <li>{{ n }}</li>
+{% endfor %}
 </ul>
-<h2>out and about</h2>
-<p>Below you'll find some of my publicly accessible content. There's more that I've neglected to keep track of and I do plan on building a more functional collection of this stuff later.</p>
-<ul>
-    <li><a href="https://youtu.be/7R2EUVtHDoM">ChatGPT for PLG Talk with Your Salesforce or Segment Data</a></li>
-    <li><a href="https://youtu.be/6LGGQERxrQo">How to Build an OpenAI LLM on a Private Network with AWS</a></li>
-    <li><a href="https://youtu.be/QCfc8JQjisQ">Here's how to use SingleStore's SQrL ChatBot to Write SQL and Python for you!</a></li>
-    <li><a href="https://www.singlestore.com/blog/implement-vector-embeddings-on-json-data/">Implement Vector Embeddings on JSON Data</a></li>
-    <li><a href="https://www.singlestore.com/blog/singlestoredb-the-best-database-for-ai-and-machine-learning-models/">SingleStoreDB: The Best Database for AI and Machine Learning</a>
-    <li><a href="https://artofnetworkengineering.com/2022/12/21/ep-108-tme-panel/">Art of Network Engineering: TME Panel</a></li>
-    <li><a href="https://packetpushers.net/demo-bytes-vsphere-upt-on-the-nvidia-bluefield-dpu/">Demo Bytes: vSphere UPT on the NVIDIA BlueField DPU</a></li>
-    <li><a href="https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1652110907326001w9lU&videoId=6311753234112">session @ vmware explore - increase security and performance using project monterey and nvidia dpus</a></li>
-    <li><a href="https://packetpushers.net/podcast/tech-bytes-nvidia-bluefield-and-project-monterey-sponsored/">tech bytes - nvidia bluefield and project monterey</a></li>
-    <li><a href="https://packetpushers.net/podcast/heavy-networking-633-building-dpu-apps-with-nvidias-doca-sponsored/">heavy networking - building dpu apps with nvidia doca</a></li>
+<hr>
+<h2>content:</h2>
+<p>below you'll find some of my publicly accessible content, located elsewhere on the internets.</p>
+<ul class="post-list">
+    {% assign contents = site.content | sort: 'date' | reverse %}
+    {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
+    {% for item in contents limit: 5 %}
+        <li>
+            <a href="{{ item.ext_url }}" target=_blank>
+                {% assign item_type = item.format | default: "blog" %}
+                {% assign item_title = item.title | truncate: 80 | downcase %}
+                {% if item_type == "webinar" %}
+                    &#128170; {{ item_title }}
+                {% elsif item_type == "youtube" %}
+                    &#128250; {{ item_title }}
+                {% elsif item_type == "podcast" %}
+                    &#127897; {{ item_title }}
+                {% elsif item_type == "conference" %}
+                    &#128747; {{ item_title }}
+                {% else %}
+                    &#9997; {{ item_title }}
+                {% endif %}
+            </a><br />
+            <span class="post-meta">{{ item.date | date: date_format | downcase }}</span>
+        </li>
+    {% endfor %}
 </ul>
+<a href="/recently">see more</a>
 <hr>
 <h2>recent posts:</h2>
+<p>if i felt strongly enough about something, i probably wrote it here.</p>
