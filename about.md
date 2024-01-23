@@ -8,41 +8,49 @@ I ♥ my Wife, Son, and 🐶
 
 I put 🧑‍🤝‍🧑 over 💻
 
-I enjoy a good 🥃 
-
 I listen to, collect, and archive 🎷 Live Music
 
-I'm working on improving 🌎 Indoor Air Quality
+I'm a budding gardener 🌱
 
-I'm a hell of a datacenter and application architect. Scoping out unusual application requirements, solving unique business issues with technology, or figuring out what the next gen architecture will be is where my head lives most of the time. 
+I'm a hell of a technical marketer, datacenter architect, and systems designer. This is what currently pays the bills and will probably continue to do so for a little while.
 
 ### Digging deeper
 
-I care greatly about the people around me. That includes my family, friends, team mates, and the tech community I'm a part of on [Twitter](https://twitter.com/wesdottoday). I work with people who want to grow their careers, to direct them in directions they may not have found on their own, make introductions, and mentor when needed. I believe if we spent more of our time focusing on the people who work in tech, rather than on the tech itself, we would have a happier, healthier, more inclusive, and more productive industry. 
+I care greatly about the people around me. That includes my family, friends, team mates, and my technical community. I work with people who want to grow their careers, to direct them in directions they may not have found on their own, make introductions, and mentor when needed. I believe if we spent more of our time focusing on the people who work in tech, rather than on the tech itself, we would have a happier, healthier, more inclusive, and more productive industry. 
 
-I always put my family over my career. I take breaks during my workday to spend time with my wife and son. I'll often go for a long walk with my son (1yo) to think about a problem or clear my head. I strive to be present in my life, although I don't always succeed. There will always be more work to do and more capitalism to feed, but our days our numbered and our time with loved ones is far too short.
+I always put my family over my career. I take breaks during my workday to spend time with my wife and son. I'll often go for a long walk with my young son to clear my head and see the world through his eyes. I strive to be present in my life, although I don't always succeed. There will always be more work to do and more capitalism to feed, but our days are numbered and our time with loved ones is far too short.
 
-I am recently diagnosed ADHD, which I'm finding to be a superpower when managed properly. Unfortunately, it's gone un-diagnosed and un-managed for close to two decades. It's amazing how clear things become and how much easier I'm finding it to focus on the project at hand now that it's being managed properly. 
+I am diagnosed and medicated ADHD, which I've known for decades but the social stigma and brainwashing I received growing up kept my parents and then me from pursuing diagnosis until my 30s. 
 
-I enjoy a good whiskey (boubon, scotch, Japanese whiskey, etc), particularly when sharing it with a friend. I think whiskey has the ability to transport us to different places, through different flavor profiles and memory association. Certain whiskies will remind me of time spent with a certain friend or of a place I've visited.
-
-I have an obscenely large live music collection. Before a catastrophic hard drive failure (hard drives don't like to swim), I had just over 75TB of live music archived. I'm slowly building up my collection again, but I'm only allowing music into the collection once I've sanitized and cleaned the metadata, file names, etc. It's a lot of manual work, but I'm also trying to build a management tool to help automate some of this for me. 
-
-Indoor Air Quality has become a big passion of mine in the last several years. After three years of infertility, my wife and I made a lot of changes in our lives. From the food we eat to the products we buy, we dive deep into the possible health consequences. This means that I've started to think a lot about what off-gases from products we buy (hello Ikea furniture). A friend and I are well along the way to designing some indoor air quality sensors that I will be using to build out a consultancy for down the road. In the end, I would like to spend my days making a difference in people's lives through improving their indoor air quality, rather than just building or marketing widgets in tech.
+I have an obscenely large live music collection. Before a catastrophic hard drive failure (hard drives don't like to swim), I had just over 75TB of live music indexed and archived. I'm slowly building up my collection again, but I'm only allowing music into the collection once I've sanitized and cleaned the metadata, file names, etc. It's a lot of manual work, but I'm also trying to build a management tool to help automate some of this for me. 
 
 ### Specializations
 
-- Datacenter and Mission Critical Application Architecture and Design
 - Technical Marketing
-- VMware, Acropolis, Kubernetes
-- Hyperconverged Systems (Nutanix, VMware VSAN)
-- Containerization
-- Storage Systems
-- Python, Bash, back-end coding
+- Datacenter and Mission Critical Application Architecture and Design
+- All the clouds, no matter their cloudiness
+- Sales Engineering and Solutions Architecture
+- Tying Business issues to technical solutions
+- AI, LLMs, ML (largely begrugingly)
+- Saying "No." - it is a complete sentence after-all
 
 ### Career
 
-[Nov 2021 -> Current] **Senior Technical Marketing Engineer @ [NVIDIA](https://nvidia.com)**
+[Jan 2024 -> Current] **Principal Technical Marketing Engineer @ [Continuum](https://transformationcontinuum.com)**
+
+It's a lot of everything, but I spend a large amount of time focusing on delievering content and assets for our customers, largely focused on Customer Experience and Product On-Board Satisfaction. 
+
+[Dec 2023 -> Current] **Principal, Owner @ [`thewrkgroup`](https://thewrk.group)**
+
+`thewrkgroup` is primarily focused on technical marketing consulting along with a number of other side projects and businesses. I've designed the company as a place for TMEs who either don't have a home or are a bit bored to operate out of. We're setup to provide all of the backend infrastructure they need to be successful. 
+
+[Apr 2023 -> Jan 2024] **Principal Evangelist @ [SingleStore](https://singlestore.com)**
+
+- Deliver presentations at conferences
+- Develop content in many forms for our customers (video, blogs, code examples, etc)
+- Build Marketing Automation and Integration for internal use
+
+[Nov 2021 -> Apr 2023] **Senior Technical Marketing Engineer @ [NVIDIA](https://nvidia.com)**
 
 - Cover BlueField DPUs, specifically focusing on manageability and day two operations
 - Work on Project Monterey with peers at VMware
