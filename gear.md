@@ -6,37 +6,47 @@ permalink: /gear/
 
 Just like most folks in the tech industry, I take pride in the tools of my trade. Below you'll find a deep dive into my various machines, their uses, and how they're configured.
 
-### boomboxx
+## Current Machines
 
-`boomboxx` is the workhorse of the house. It's a monster machine that allows me to do just about anything I need to. I am considering picking up a Mac Studio as a possible replacement, but I'm not entirely sold on the idea.
+### computer-zero
 
-**Specs**
-
-- Boxx Apexx T4 Everest
-- AMD Threadripper PRO 3975WX 32-Cores @ 4.2GHz
-- 512GB memory
-- (2) Micron 1.92TB NVMe
-- (2) NVIDIA A6000 GPUs
-- NVIDIA CX-6 200G NIC
-
-**Software**
-
-- Ubuntu 22.04 Desktop
-
-### swanson 
-
-`swanson` is my new personal laptop. It replaces a very tired Thinkpad T480s (`maracapants`) and should last me a very long time, given its #righttorepair roots.
+`computer-zero` is my workstation that stays at my desk and never gets modified in it's setup. 
 
 **Specs**
 
-- [Frame.work](https://frame.work) 12th Gen, DIY
-- Intel i7-1280p
-- Crucial 64GB Memory
-- WD Black SN850 4TB NVMe
+- Apple Mac Studio
+- M2 Ultra
+- 64GB Memory
+- 1TB Storage
 
-**Software**
+**Audio Setup**
 
-- Ubuntu 22.04 Desktop
+- Apogee Apolo Solo
+- Electro-Voice RE320
+- Sennheiser HD 650
+- Rolls Mic Switch MS111
+
+### computer-one
+
+`computer-one` is my MacBook Pro that's used for personal and my consulting work.
+
+**Specs**
+
+- MacBook Pro
+- M3 Max
+- 64GB Memory
+- 1TB Storage
+
+### computer-two
+
+`computer-two` is my work MacBook Air.
+
+**Specs**
+
+- MacBook Air
+- M3
+- 8GB Memory
+- 256GB Storage
 
 ### goofynewton
 
@@ -54,6 +64,24 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 - Ubuntu 22.04 Server
 
+---
+
+## Retired Machines
+
+### maracapants (retired)
+
+`maracapants` is my personal laptop that gets used for lots of random projects. It's most likely going to be replaced in the next year or so with a M2 MacBook Air.
+
+**Specs**
+
+- Lenovo T480S
+- 24GB Memory
+- 2TB NVMe
+
+**Software**
+
+- Ubuntu 22.04 Desktop
+
 ### goofycalahan
 
 `goofycalahan` is an all NVMe QNAP, used for lab work.
@@ -70,19 +98,33 @@ Just like most folks in the tech industry, I take pride in the tools of my trade
 
 - Ubuntu 22.04 Server 
 
----
+### swanson 
 
-## Retired Machines
-
-### maracapants (retired)
-
-`maracapants` is my personal laptop that gets used for lots of random projects. It's most likely going to be replaced in the next year or so with a M2 MacBook Air.
+`swanson` is my new personal laptop. It replaces a very tired Thinkpad T480s (`maracapants`) and should last me a very long time, given its #righttorepair roots.
 
 **Specs**
 
-- Lenovo T480S
-- 24GB Memory
-- 2TB NVMe
+- [Frame.work](https://frame.work) 12th Gen, DIY
+- Intel i7-1280p
+- Crucial 64GB Memory
+- WD Black SN850 4TB NVMe
+
+**Software**
+
+- Ubuntu 22.04 Desktop
+
+### boomboxx
+
+`boomboxx` is the workhorse of the house. It's a monster machine that allows me to do just about anything I need to. I am considering picking up a Mac Studio as a possible replacement, but I'm not entirely sold on the idea.
+
+**Specs**
+
+- Boxx Apexx T4 Everest
+- AMD Threadripper PRO 3975WX 32-Cores @ 4.2GHz
+- 512GB memory
+- (2) Micron 1.92TB NVMe
+- (2) NVIDIA A6000 GPUs
+- NVIDIA CX-6 200G NIC
 
 **Software**
 
